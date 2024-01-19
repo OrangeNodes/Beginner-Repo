@@ -8,3 +8,5 @@ df = pd.DataFrame(data, index=['Cochice', 'Pima', 'Santa Cruz', 'Maricopa', 'Yum
 
 # View the top 3 rows
 print(df.head(3))
+
+print('Pandas is working!')
